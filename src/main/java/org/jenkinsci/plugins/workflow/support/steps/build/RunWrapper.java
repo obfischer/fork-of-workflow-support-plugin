@@ -63,7 +63,7 @@ import static org.kohsuke.stapler.export.Flavor.JSON;
  *
  * NOTE: if modifying this class, please remember to manually update Runwrapper/help.html
  */
-public final class RunWrapper implements Serializable {
+public class RunWrapper implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
